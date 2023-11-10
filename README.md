@@ -24,12 +24,6 @@ envname\scripts\activate.bat
 
 ```
 
---> Install the requirements :
-```bash
-pip install -r requirements.txt
-
-```
-
 #
 
 ### Running the App
